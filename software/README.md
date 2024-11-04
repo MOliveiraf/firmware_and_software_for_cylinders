@@ -35,7 +35,7 @@ Este projeto fornece uma interface gráfica baseada em web, usando Streamlit, pa
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/MOliveiraf/firmware_and_software_for_cylinders.git
    cd seu_repositorio
 
 ## Como Executar o Projeto
