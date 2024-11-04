@@ -34,5 +34,5 @@ Este projeto é um firmware desenvolvido para microcontroladores, como a ESP32, 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio_firmware.git
+   git clone https://github.com/MOliveiraf/firmware_and_software_for_cylinders.git
    cd seu_repositorio_firmware/firmware
